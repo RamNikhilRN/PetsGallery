@@ -1,0 +1,4 @@
+<resources>
+    <!-- Define custom attribute for RecyclerView background -->
+    <attr name="recyclerViewBackground" format="reference|color" />
+</resources>

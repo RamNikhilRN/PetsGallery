@@ -1,0 +1,37 @@
+<resources>
+    <!-- Dark theme for the application -->
+    <style name="Theme.PetsGallery.Dark" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize dark theme attributes -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Background for dark mode -->
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:colorButtonNormal">@color/white</item>
+        <item name="android:buttonTint">@color/purple_200</item>
+
+        <!-- Customize edit text colors -->
+        <item name="textInputStyle">@style/TextInput.Dark</item>
+
+        <!-- Custom menu style -->
+        <item name="popupMenuStyle">@style/PopupMenu.Dark</item>
+        <item name="android:itemBackground">@color/black</item>
+    </style>
+
+    <!-- Dark theme for popup menu -->
+    <style name="PopupMenu.Dark" parent="Widget.MaterialComponents.PopupMenu">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/black</item>
+    </style>
+
+    <!-- Custom dark theme for TextInputLayout -->
+    <style name="TextInput.Dark" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/white</item>
+        <item name="hintTextColor">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+    </style>
+</resources>

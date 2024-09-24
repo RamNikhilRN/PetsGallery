@@ -1,0 +1,24 @@
+
+    <resources>
+        <!-- Light and Dark Theme Primary Colors -->
+        <color name="purple_200">#BB86FC</color>
+        <color name="purple_500">#6200EE</color>
+        <color name="purple_700">#3700B3</color>
+        <color name="teal_200">#03DAC5</color>
+
+        <!-- Light Theme Specific Colors -->
+        <color name="light_background">#FFFFFF</color>
+        <color name="light_text">#000000</color>
+
+        <!-- Dark Theme Specific Colors -->
+        <color name="black">#000000</color>
+        <color name="dark_background">#121212</color>
+        <color name="dark_text">#FFFFFF</color>
+        <color name="button_color">#BB86FC</color>
+        <color name="white">#FFFFFF</color>
+    </resources>
+
+
+
+
+

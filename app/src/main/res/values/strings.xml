@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PetsGallery</string>
+    <string name="pet_image_description">Image of a pet</string>
+    <string name="created_on">Created on: %1$s</string>
+        <string name="search_hint">Search by title or description</string>
+        <string name="sort_ascending">A-Z</string>
+        <string name="sort_descending">Z-A</string>
+        <string name="add_image">ADD IMAGE FROM GALLERY</string>
+        <string name="go_to_compose">GO TO COMPOSE SCREEN</string>
+        <string name="save_image">SAVE IMAGE</string>
+        <string name="upload_image">Upload Image</string>
+
+
+
+</resources>

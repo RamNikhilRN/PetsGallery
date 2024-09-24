@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_switch_ui"
+        android:title="Switch to Compose UI" />
+    <item
+        android:title="Change Theme">
+        <menu>
+            <item
+                android:id="@+id/theme_light"
+                android:title="Light Theme"
+                android:checkable="true"
+                android:checked="false"/>
+
+            <item
+                android:id="@+id/theme_dark"
+                android:title="Dark Theme"
+                android:checkable="true"
+                android:checked="false"/>
+
+            <item
+                android:id="@+id/theme_system"
+                android:title="System Default"
+                android:checkable="true"
+                android:checked="false"/>
+        </menu>
+    </item>
+</menu>
