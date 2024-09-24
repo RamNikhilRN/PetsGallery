@@ -117,25 +117,25 @@ This file tests the UI components of the app, specifically buttons and interacti
 ## Screenshots
 
 1. **Sort Ascending**
-   ![Sort Ascending](https://github.com/user-attachments/assets/17752f90-6fac-44b3-af47-0b6b430e0cf6)
+![Sort Ascending](https://github.com/user-attachments/assets/17752f90-6fac-44b3-af47-0b6b430e0cf6)
 
 2. **Sort Descending**
-   ![Sort Descending](https://github.com/user-attachments/assets/2691107a-26e2-4417-86f2-f1de94ddb4c6)
+![Sort Descending](https://github.com/user-attachments/assets/2691107a-26e2-4417-86f2-f1de94ddb4c6)
 
 3. **Upload Image from Gallery**
-   ![Upload Image](https://github.com/user-attachments/assets/36367297-61ac-4639-a399-c05774e736c3)
+![Upload Image](https://github.com/user-attachments/assets/36367297-61ac-4639-a399-c05774e736c3)
 
 4. **Save Image**
-   ![Save Image](https://github.com/user-attachments/assets/4045e8d4-31db-46dd-b44f-5944d8383775)
+![Save Image](https://github.com/user-attachments/assets/4045e8d4-31db-46dd-b44f-5944d8383775)
 
 5. **Async Search**
-   ![Async Search](https://github.com/user-attachments/assets/659af55f-459c-412c-ba04-85d30e33d20e)
+![Async Search](https://github.com/user-attachments/assets/659af55f-459c-412c-ba04-85d30e33d20e)
 
 6. **Choose Themes**
-   ![Choose Themes](https://github.com/user-attachments/assets/66e39f3e-f322-4446-a208-0592f53c3c91)
+![Choose Themes](https://github.com/user-attachments/assets/66e39f3e-f322-4446-a208-0592f53c3c91)
 
 7. **Dark Theme**
-   ![Dark Theme](https://github.com/user-attachments/assets/4d5955fb-713a-4728-a087-9bb0b896ef36)
+![Dark Theme](https://github.com/user-attachments/assets/4d5955fb-713a-4728-a087-9bb0b896ef36)
 
 ## Project Setup
 
